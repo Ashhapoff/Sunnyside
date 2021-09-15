@@ -112,6 +112,9 @@ a.trans {
   text-align: center;
   line-height: 1;
 }
+.abs-text p {
+  font-size: 16px;
+}
 .photog {
   position: relative;
   color: hsl(198, 62%, 26%);
@@ -157,7 +160,7 @@ padding: 20px 30px;
   border-radius: 50%;
 }
 .test{
-  padding: 80px;
+  padding: 60px;
 }
 .testimonials{
   text-align: center;
